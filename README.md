@@ -32,10 +32,9 @@
 |  Opera     |  Presto    |  Opera     |
 +------------+------------+------------+
 ```
-
-<img src="./Mozillagecko-logo.svg.png" style="width: 36px;height:36px; margin-right: 10px;" />
-<img src="./WebKit_logo_(2015).svg.png" style="width: 36px;height:36px;margin-right: 10px;" />
-<img src="./Chromium_Material_Icon.png" style="width: 36px;height:36px;margin-right: 10px;" />
+<img src="./images/Mozillagecko-logo.svg.png" width="36" height="36" />
+<img src="./images/WebKit_logo_(2015).svg.png" width="36" height="36" />
+<img src="./images/Chromium_Material_Icon.png" width="36" height="36" />
 
 #### Timeline
 
@@ -65,7 +64,7 @@
 |
 ```
 
-![MacDown logo](./BrowserUsageShare.png)
+![BrowserUsageShare](./images/BrowserUsageShare.png)
 
 #### Internet Explorer
 
@@ -95,7 +94,7 @@
 |  遨游浏览器     | WebKit Trident      |   默认是WebKit，兼容模式是Trident              |  
 |  UC浏览器      |  Blink Trident      |  默认是Blink，兼容模式是Trident                |
 |  猎豹浏览器     | WebKit Trident      |   默认是WebKit，兼容模式是Trident              |  
-+------------+---------------------+------------------------------------------------+
++---------------+---------------------+----------------------------------------------+
 ```
 
 ### 2. Engine relationship
@@ -155,10 +154,5 @@
 * [List of web browsers](https://en.wikipedia.org/wiki/List_of_web_browsers#WebKit-based)
 * [A Modern Browser](https://blogs.msdn.microsoft.com/tims/2011/02/15/a-modern-browser/)
 * [IE9是"现代浏览器"吗?](https://36kr.com/p/15382)
-
-
-
-
-
 
 
