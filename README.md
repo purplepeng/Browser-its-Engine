@@ -32,9 +32,11 @@
 |  Opera     |  Presto    |  Opera     |
 +------------+------------+------------+
 ```
+<p>
 <img src="./images/Mozillagecko-logo.svg.png" width="36" height="36" />
 <img src="./images/WebKit_logo_(2015).svg.png" width="36" height="36" />
 <img src="./images/Chromium_Material_Icon.png" width="36" height="36" />
+</p>
 
 #### Timeline
 
