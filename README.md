@@ -89,13 +89,13 @@
 +----------------+---------------------+----------------------------------------------+
 |  Browser       |  Engine             |  Feature                                     |
 +----------------+---------------------+----------------------------------------------+
-|  360安全浏览器  |  Blink Trident      |  默认是Blink，兼容模式是Trident                |  
-|  360极速浏览器  |  Blink Trident      |  默认是Blink，兼容模式是Trident                |
-|  搜狗浏览器     |  WebKit Trident     |  默认是WebKit，兼容模式是Trident               |  
-|  QQ浏览器      | WebKit Trident      |   默认是WebKit，兼容模式是Trident              | 
-|  遨游浏览器     | WebKit Trident      |   默认是WebKit，兼容模式是Trident              |  
-|  UC浏览器      |  Blink Trident      |  默认是Blink，兼容模式是Trident                |
-|  猎豹浏览器     | WebKit Trident      |   默认是WebKit，兼容模式是Trident              |  
+|  360安全浏览器   |  Blink Trident      |  默认是Blink，兼容模式是Trident                 |  
+|  360极速浏览器   |  Blink Trident      |  默认是Blink，兼容模式是Trident                 |
+|  搜狗浏览器      |  WebKit Trident     |  默认是WebKit，兼容模式是Trident                |   
+|  QQ浏览器       |  WebKit Trident     |  默认是WebKit，兼容模式是Trident                | 
+|  遨游浏览器      |  WebKit Trident     |  默认是WebKit，兼容模式是Trident                |  
+|  UC浏览器       |  Blink Trident      |  默认是Blink，兼容模式是Trident                 |
+|  猎豹浏览器      | WebKit Trident      |  默认是WebKit，兼容模式是Trident                |  
 +----------------+---------------------+----------------------------------------------+
 ```
 
@@ -143,10 +143,10 @@
 
 |    浏览器           |     Web         |    Web Admin    |    H5
 |:------------- |:---------------| :-------------|:------------
-| Chrome        |     兼容         |     兼容      |兼容
-| Firefox       |     兼容         |     兼容      |兼容
-| Safari        |     兼容         |     兼容      |兼容
-| Edge          |     兼容		    |     兼容       |兼容
+| Chrome        |     兼容         |     兼容      |   兼容
+| Firefox       |     兼容         |     兼容      |   兼容
+| Safari        |     兼容         |     兼容      |   兼容
+| Edge          |     兼容         |     兼容      |   兼容
 | 其它       | 1. 一般情况兼容IE8/IE9/IE10 <br> 2. 特殊情况兼容IE6及以上（若有其它适配需求，需说明） | 1. 套模板时：兼容情况同WEB<br> 2. 使用前端框架时（Vue、React、Angular），只兼容现代浏览器 | 兼容手机默认浏览器
 
 
